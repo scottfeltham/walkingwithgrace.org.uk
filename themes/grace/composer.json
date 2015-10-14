@@ -1,0 +1,17 @@
+{
+    "name": "silverstripe-themes/grace",
+    "description": "Simple edited for Walking with Grace",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Scott Feltham",
+            "homepage": "http://about.me/scpttfeltham"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=3.0"
+    }
+}
